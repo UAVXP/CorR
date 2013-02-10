@@ -5,6 +5,11 @@
 	title2		"== episode two =="
 
 	type		singleplayer_only
+	
+	developer		"CorR Dev Team"
+	developer_url	"http://metalsoviet.koding.com/"
+	
+	GameData		"corr.fgd"
 
 	FileSystem
 	{

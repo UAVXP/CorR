@@ -120,7 +120,25 @@ UpgradeLog*.XML
 *.dat
 *.dt
 *.ain
+# Another files from Dev Wiki
+albedo.tga
+demoheader.tmp
 stats.txt
+textwindow_temp.html
+banned_user.cfg
+banned_ip.cfg
+config.cfg
+pet.txt
+kb_def.lst
+#settings.scr # This should be placed in the cfg folder.
+*.pdb
+models/*/*.xbox.vtx
+SAVE
+expressions
+screenshots
+reslists
+materials/maps
+materials/temp
 
 
 ############
